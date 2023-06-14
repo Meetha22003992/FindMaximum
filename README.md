@@ -21,6 +21,8 @@ def max_marks(marks):
 
 ii)	# To find the maximum marks using the list method max().
 ```Python
+#Developed by:Meetha Prabhu
+#Reg No:21222240065
 def max_marks(marks):
     marks.sort()
     return marks[-1]
@@ -28,11 +30,11 @@ def max_marks(marks):
 
 iii) # To find the maximum marks without using builtin functions.
 ```Python
-'''
+#Developed by:Meetha Prabhu
+#Reg No:21222240065
 def max_marks(list1):
     list1.sort()
     return list1[-1]
-
 ```
 ## Output:
 ![image](https://github.com/Meetha22003992/FindMaximum/assets/119401038/6db30e4c-a7ff-4f55-80ff-309a183b57c0)
